@@ -23,9 +23,6 @@ The data that was taken for the month of December were 1517 different times from
 
 ## Summary
 
-The temperature variation between June and December are not much difference when you look at the average temperature. The difference is by 4 degrees. Although, December does have the lowest temperature of 56, but that could be an issue trying to sell ice cream, but it could have been a time event. When comparing the highest temperature, June was hotter by 2 degrees compared to December. Overall, the temperature is steady and not much fluctuation between June and December.
+The temperature variation between June and December are not much difference when you look at the average temperature. The difference is by 4 degrees. Although, December does have the lowest temperature of 56, but that could be an issue trying to sell ice cream, but it could have been a one time event. When comparing the highest temperature, June was hotter by 2 degrees compared to December. Overall, the temperature is steady and not much fluctuation between June and December.
 
-This data does take in account of all weather stations in surrounding area. A query from the closest weather station would narrow down the temperatures and get a more accurate temperature based on the location. Along with that information, the precipitation data would also benefit. Getting the average rainfalls from the weather station closest to the location and compare June to December would determine which month would be a wetter month, which would determine the sales for the month.
-
-
- 
+This data does take in account of all weather stations in surrounding area. A query from the closest weather station would narrow down the temperatures and get a more accurate temperature based on the location. Along with that information, the precipitation data would also benefit. Getting the average rainfalls from the weather station closest to the shop's location and compare June to December would determine which month would be a wetter month, which would determine the sales for the month.
