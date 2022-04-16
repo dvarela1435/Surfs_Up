@@ -1,7 +1,5 @@
 # Surfs_up
 
-The analysis should contain the following:
-
 ## Overview
 
 W.Avy wants to open up a surf and ice cream shop. He wants the temperature data for the months of June and December in Oahu to determine if the surf and ice cream ship is sustainable year-round. 
@@ -17,7 +15,7 @@ The data that was taken for the month of June were 1700 different times from 201
 ![June](/Resources/June_temp.png)
 
 The data that was taken for the month of December were 1517 different times from 2010 to 2017.
-- - the average temperature was 71 degrees
+- the average temperature was 71 degrees
 - the lowest temperature recorded was 56
 - the highest temperature recorded was 83
 
